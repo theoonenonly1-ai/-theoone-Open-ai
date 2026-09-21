@@ -1,0 +1,19 @@
+THEOONE OFFICE AI — QUICK START
+
+1. Wähle eine echte, wiederkehrende Aufgabe.
+2. Definiere das gewünschte Ergebnis.
+3. Gib relevanten Kontext.
+4. Lege Format und Ton fest.
+5. Lass fehlende Angaben markieren.
+6. Prüfe den Output.
+7. Speichere funktionierende Abläufe.
+
+UNIVERSAL-PROMPT
+Rolle: Arbeite als [Funktion].
+Aufgabe: Erledige [Aufgabe].
+Kontext: [Informationen].
+Ziel: [gewünschtes Ergebnis].
+Format: [Format].
+Ton: [Ton].
+Grenzen: Erfinde keine Informationen. Markiere fehlende Angaben.
+Prüfung: Prüfe Klarheit, Vollständigkeit und Widersprüche.
