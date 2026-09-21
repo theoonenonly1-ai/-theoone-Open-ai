@@ -1,0 +1,2803 @@
+THEOONE OFFICE AI – 100 PROMPT-VORLAGEN
+
+Prinzip: Aufgabe → Kontext → Ergebnis → Prüfung → Verbesserung
+
+### 1. Kommunikation / E-Mail kürzen
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: E-Mail kürzen.
+Kontext: Einen vorhandenen Entwurf auf die Kernaussage reduzieren, ohne wichtige Informationen zu verlieren.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: E-Mail kürzen.
+Arbeitsprinzip: Einen vorhandenen Entwurf auf die Kernaussage reduzieren, ohne wichtige Informationen zu verlieren.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 2. Kommunikation / E-Mail freundlicher machen
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: E-Mail freundlicher machen.
+Kontext: Eine sachliche Nachricht wärmer und respektvoller formulieren, ohne unprofessionell zu wirken.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: E-Mail freundlicher machen.
+Arbeitsprinzip: Eine sachliche Nachricht wärmer und respektvoller formulieren, ohne unprofessionell zu wirken.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 3. Kommunikation / E-Mail verbindlicher machen
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: E-Mail verbindlicher machen.
+Kontext: Eine Nachricht klarer formulieren, damit nächste Schritte, Termine und Zuständigkeiten eindeutig sind.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: E-Mail verbindlicher machen.
+Arbeitsprinzip: Eine Nachricht klarer formulieren, damit nächste Schritte, Termine und Zuständigkeiten eindeutig sind.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 4. Kommunikation / Beschwerde beantworten
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Beschwerde beantworten.
+Kontext: Eine Beschwerde strukturiert, ruhig und lösungsorientiert beantworten; keine Zusagen erfinden.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Beschwerde beantworten.
+Arbeitsprinzip: Eine Beschwerde strukturiert, ruhig und lösungsorientiert beantworten; keine Zusagen erfinden.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 5. Kommunikation / Termin verschieben
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Termin verschieben.
+Kontext: Eine Terminverschiebung kurz, höflich und mit klaren Alternativvorschlägen formulieren.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Termin verschieben.
+Arbeitsprinzip: Eine Terminverschiebung kurz, höflich und mit klaren Alternativvorschlägen formulieren.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 6. Kommunikation / Termin bestätigen
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Termin bestätigen.
+Kontext: Termin, Beteiligte, Ort/Medium und nächste Schritte aus den bereitgestellten Angaben bestätigen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Termin bestätigen.
+Arbeitsprinzip: Termin, Beteiligte, Ort/Medium und nächste Schritte aus den bereitgestellten Angaben bestätigen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 7. Kommunikation / Telefonnotizen → E-Mail
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Telefonnotizen → E-Mail.
+Kontext: Stichpunkte aus einem Telefonat in eine sendefertige E-Mail umwandeln.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Telefonnotizen → E-Mail.
+Arbeitsprinzip: Stichpunkte aus einem Telefonat in eine sendefertige E-Mail umwandeln.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 8. Kommunikation / Chat professionell formulieren
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Chat professionell formulieren.
+Kontext: Eine kurze Messenger-Nachricht professionell, aber natürlich formulieren.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Chat professionell formulieren.
+Arbeitsprinzip: Eine kurze Messenger-Nachricht professionell, aber natürlich formulieren.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 9. Kommunikation / Anfrage beantworten
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Anfrage beantworten.
+Kontext: Eine Kunden- oder Kollegenanfrage anhand der vorhandenen Informationen strukturiert beantworten.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Anfrage beantworten.
+Arbeitsprinzip: Eine Kunden- oder Kollegenanfrage anhand der vorhandenen Informationen strukturiert beantworten.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 10. Kommunikation / Absage formulieren
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Absage formulieren.
+Kontext: Eine höfliche Absage schreiben und – falls sinnvoll – eine konstruktive Alternative nennen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Absage formulieren.
+Arbeitsprinzip: Eine höfliche Absage schreiben und – falls sinnvoll – eine konstruktive Alternative nennen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 11. Dokumente & Text / Stichpunkte → Fließtext
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Stichpunkte → Fließtext.
+Kontext: Rohnotizen in einen logisch aufgebauten, gut lesbaren Text verwandeln.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Stichpunkte → Fließtext.
+Arbeitsprinzip: Rohnotizen in einen logisch aufgebauten, gut lesbaren Text verwandeln.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 12. Dokumente & Text / Text vereinfachen
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Text vereinfachen.
+Kontext: Komplexe Formulierungen verständlicher machen, ohne den Inhalt zu verfälschen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Text vereinfachen.
+Arbeitsprinzip: Komplexe Formulierungen verständlicher machen, ohne den Inhalt zu verfälschen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 13. Dokumente & Text / Text strukturieren
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Text strukturieren.
+Kontext: Überschriften, Reihenfolge und Absätze so ordnen, dass der Text schnell erfassbar ist.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Text strukturieren.
+Arbeitsprinzip: Überschriften, Reihenfolge und Absätze so ordnen, dass der Text schnell erfassbar ist.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 14. Dokumente & Text / Fehlerprüfung
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Fehlerprüfung.
+Kontext: Rechtschreibung, Grammatik, Widersprüche und unklare Stellen prüfen; Änderungen transparent ausweisen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Fehlerprüfung.
+Arbeitsprinzip: Rechtschreibung, Grammatik, Widersprüche und unklare Stellen prüfen; Änderungen transparent ausweisen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 15. Dokumente & Text / Professionalisieren
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Professionalisieren.
+Kontext: Einen vorhandenen Text präziser und professioneller formulieren, ohne Fakten hinzuzufügen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Professionalisieren.
+Arbeitsprinzip: Einen vorhandenen Text präziser und professioneller formulieren, ohne Fakten hinzuzufügen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 16. Dokumente & Text / Zusammenfassung
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Zusammenfassung.
+Kontext: Ein Dokument auf Kernaussagen, Entscheidungen, offene Punkte und nächste Schritte reduzieren.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Zusammenfassung.
+Arbeitsprinzip: Ein Dokument auf Kernaussagen, Entscheidungen, offene Punkte und nächste Schritte reduzieren.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 17. Dokumente & Text / Entscheidungsvorlage
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Entscheidungsvorlage.
+Kontext: Aus Informationen eine neutrale Vorlage mit Optionen, Fakten, offenen Punkten und Entscheidungsschritt erstellen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Entscheidungsvorlage.
+Arbeitsprinzip: Aus Informationen eine neutrale Vorlage mit Optionen, Fakten, offenen Punkten und Entscheidungsschritt erstellen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 18. Dokumente & Text / Anleitung schreiben
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Anleitung schreiben.
+Kontext: Einen bekannten Ablauf in klare, nummerierte Arbeitsschritte umwandeln.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Anleitung schreiben.
+Arbeitsprinzip: Einen bekannten Ablauf in klare, nummerierte Arbeitsschritte umwandeln.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 19. Dokumente & Text / Checkliste aus Prozess
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Checkliste aus Prozess.
+Kontext: Aus einem beschriebenen Arbeitsablauf eine abhakbare Checkliste erzeugen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Checkliste aus Prozess.
+Arbeitsprinzip: Aus einem beschriebenen Arbeitsablauf eine abhakbare Checkliste erzeugen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 20. Dokumente & Text / FAQ aus Dokument
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: FAQ aus Dokument.
+Kontext: Aus einem Dokument häufig erwartbare Fragen und präzise Antworten ableiten.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: FAQ aus Dokument.
+Arbeitsprinzip: Aus einem Dokument häufig erwartbare Fragen und präzise Antworten ableiten.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 21. Planung & Organisation / Tagesplanung
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Tagesplanung.
+Kontext: Aufgaben nach Priorität, Zeitbedarf und Abhängigkeiten in einen realistischen Tagesplan bringen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Tagesplanung.
+Arbeitsprinzip: Aufgaben nach Priorität, Zeitbedarf und Abhängigkeiten in einen realistischen Tagesplan bringen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 22. Planung & Organisation / Wochenplanung
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Wochenplanung.
+Kontext: Aufgaben und Termine zu einer übersichtlichen Wochenstruktur zusammenführen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Wochenplanung.
+Arbeitsprinzip: Aufgaben und Termine zu einer übersichtlichen Wochenstruktur zusammenführen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 23. Planung & Organisation / Aufgabe zerlegen
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Aufgabe zerlegen.
+Kontext: Eine große Aufgabe in konkrete, ausführbare Teilschritte zerlegen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Aufgabe zerlegen.
+Arbeitsprinzip: Eine große Aufgabe in konkrete, ausführbare Teilschritte zerlegen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 24. Planung & Organisation / Priorisieren
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Priorisieren.
+Kontext: Aufgaben anhand der vom Nutzer vorgegebenen Kriterien priorisieren, ohne eigene Ziele zu erfinden.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Priorisieren.
+Arbeitsprinzip: Aufgaben anhand der vom Nutzer vorgegebenen Kriterien priorisieren, ohne eigene Ziele zu erfinden.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 25. Planung & Organisation / Meeting-Agenda
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Meeting-Agenda.
+Kontext: Aus Thema und Ziel eines Meetings eine fokussierte Agenda mit Zeitblöcken erstellen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Meeting-Agenda.
+Arbeitsprinzip: Aus Thema und Ziel eines Meetings eine fokussierte Agenda mit Zeitblöcken erstellen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 26. Planung & Organisation / Meeting-Follow-up
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Meeting-Follow-up.
+Kontext: Notizen in Entscheidungen, Aufgaben, Verantwortliche und Fristen strukturieren.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Meeting-Follow-up.
+Arbeitsprinzip: Notizen in Entscheidungen, Aufgaben, Verantwortliche und Fristen strukturieren.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 27. Planung & Organisation / Projektstart
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Projektstart.
+Kontext: Aus Ziel, Rahmenbedingungen und bekannten Aufgaben einen Projektstartplan erstellen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Projektstart.
+Arbeitsprinzip: Aus Ziel, Rahmenbedingungen und bekannten Aufgaben einen Projektstartplan erstellen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 28. Planung & Organisation / Projekt-Risiken
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Projekt-Risiken.
+Kontext: Bekannte Risiken sammeln, beschreiben und mit möglichen Gegenmaßnahmen versehen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Projekt-Risiken.
+Arbeitsprinzip: Bekannte Risiken sammeln, beschreiben und mit möglichen Gegenmaßnahmen versehen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 29. Planung & Organisation / Arbeitsablauf verbessern
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Arbeitsablauf verbessern.
+Kontext: Einen bestehenden Ablauf auf unnötige Schritte, Übergaben und Unklarheiten prüfen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Arbeitsablauf verbessern.
+Arbeitsprinzip: Einen bestehenden Ablauf auf unnötige Schritte, Übergaben und Unklarheiten prüfen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 30. Planung & Organisation / Wiederkehrende Aufgabe standardisieren
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Wiederkehrende Aufgabe standardisieren.
+Kontext: Eine regelmäßig wiederkehrende Aufgabe als Standardprozess mit Checkliste dokumentieren.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Wiederkehrende Aufgabe standardisieren.
+Arbeitsprinzip: Eine regelmäßig wiederkehrende Aufgabe als Standardprozess mit Checkliste dokumentieren.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 31. Recherche & Analyse / Recherchefrage schärfen
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Recherchefrage schärfen.
+Kontext: Eine unscharfe Frage in präzise Teilfragen und Suchkriterien umwandeln.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Recherchefrage schärfen.
+Arbeitsprinzip: Eine unscharfe Frage in präzise Teilfragen und Suchkriterien umwandeln.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 32. Recherche & Analyse / Quellenvergleich
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Quellenvergleich.
+Kontext: Bereitgestellte Quellen nach Aussagen, Übereinstimmungen, Widersprüchen und offenen Punkten vergleichen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Quellenvergleich.
+Arbeitsprinzip: Bereitgestellte Quellen nach Aussagen, Übereinstimmungen, Widersprüchen und offenen Punkten vergleichen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 33. Recherche & Analyse / Informationen sortieren
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Informationen sortieren.
+Kontext: Unstrukturierte Informationen nach Themen, Relevanz und Priorität ordnen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Informationen sortieren.
+Arbeitsprinzip: Unstrukturierte Informationen nach Themen, Relevanz und Priorität ordnen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 34. Recherche & Analyse / Pro/Contra vorbereiten
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Pro/Contra vorbereiten.
+Kontext: Fakten und Argumente getrennt sammeln, ohne eine Entscheidung vorwegzunehmen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Pro/Contra vorbereiten.
+Arbeitsprinzip: Fakten und Argumente getrennt sammeln, ohne eine Entscheidung vorwegzunehmen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 35. Recherche & Analyse / Daten erklären
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Daten erklären.
+Kontext: Zahlen oder Tabellen verständlich beschreiben und auffällige Muster markieren.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Daten erklären.
+Arbeitsprinzip: Zahlen oder Tabellen verständlich beschreiben und auffällige Muster markieren.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 36. Recherche & Analyse / Anforderungen extrahieren
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Anforderungen extrahieren.
+Kontext: Aus einem Briefing konkrete Muss-, Soll- und offene Anforderungen extrahieren.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Anforderungen extrahieren.
+Arbeitsprinzip: Aus einem Briefing konkrete Muss-, Soll- und offene Anforderungen extrahieren.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 37. Recherche & Analyse / Kundenanforderungen strukturieren
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Kundenanforderungen strukturieren.
+Kontext: Kundenwünsche in Anforderungen, Prioritäten, Rückfragen und Annahmen zerlegen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Kundenanforderungen strukturieren.
+Arbeitsprinzip: Kundenwünsche in Anforderungen, Prioritäten, Rückfragen und Annahmen zerlegen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 38. Recherche & Analyse / Fragenkatalog erstellen
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Fragenkatalog erstellen.
+Kontext: Für ein Gespräch oder eine Recherche die wichtigsten offenen Fragen zusammenstellen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Fragenkatalog erstellen.
+Arbeitsprinzip: Für ein Gespräch oder eine Recherche die wichtigsten offenen Fragen zusammenstellen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 39. Recherche & Analyse / Recherche-Checkliste
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Recherche-Checkliste.
+Kontext: Aus einer Rechercheaufgabe eine reproduzierbare Prüfliste erstellen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Recherche-Checkliste.
+Arbeitsprinzip: Aus einer Rechercheaufgabe eine reproduzierbare Prüfliste erstellen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 40. Recherche & Analyse / Kurzbriefing
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Kurzbriefing.
+Kontext: Ein umfangreiches Thema in ein kompaktes Briefing mit Kontext, Ziel und offenen Punkten überführen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Kurzbriefing.
+Arbeitsprinzip: Ein umfangreiches Thema in ein kompaktes Briefing mit Kontext, Ziel und offenen Punkten überführen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 41. Vertrieb & Alltag / Angebotsentwurf strukturieren
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Angebotsentwurf strukturieren.
+Kontext: Vorhandene Leistungsdaten in eine übersichtliche Angebotsstruktur bringen; Preise nur übernehmen, nicht erfinden.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Angebotsentwurf strukturieren.
+Arbeitsprinzip: Vorhandene Leistungsdaten in eine übersichtliche Angebotsstruktur bringen; Preise nur übernehmen, nicht erfinden.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 42. Vertrieb & Alltag / Leistungsbeschreibung
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Leistungsbeschreibung.
+Kontext: Eine technische oder praktische Leistung verständlich und kundengerecht beschreiben.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Leistungsbeschreibung.
+Arbeitsprinzip: Eine technische oder praktische Leistung verständlich und kundengerecht beschreiben.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 43. Vertrieb & Alltag / Kundennutzen herausarbeiten
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Kundennutzen herausarbeiten.
+Kontext: Aus vorhandenen Produkteigenschaften nachvollziehbare Kundennutzen formulieren.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Kundennutzen herausarbeiten.
+Arbeitsprinzip: Aus vorhandenen Produkteigenschaften nachvollziehbare Kundennutzen formulieren.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 44. Vertrieb & Alltag / Einwände sammeln
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Einwände sammeln.
+Kontext: Mögliche Rückfragen oder Einwände aus dem vorhandenen Angebot ableiten.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Einwände sammeln.
+Arbeitsprinzip: Mögliche Rückfragen oder Einwände aus dem vorhandenen Angebot ableiten.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 45. Vertrieb & Alltag / Produktbeschreibung
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Produktbeschreibung.
+Kontext: Eine klare Produktbeschreibung aus bereitgestellten Fakten erstellen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Produktbeschreibung.
+Arbeitsprinzip: Eine klare Produktbeschreibung aus bereitgestellten Fakten erstellen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 46. Vertrieb & Alltag / Social-Caption aus Fachinhalt
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Social-Caption aus Fachinhalt.
+Kontext: Aus einem Fachthema einen kurzen, verständlichen Social-Media-Text erstellen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Social-Caption aus Fachinhalt.
+Arbeitsprinzip: Aus einem Fachthema einen kurzen, verständlichen Social-Media-Text erstellen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 47. Vertrieb & Alltag / Content-Ideen aus FAQ
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Content-Ideen aus FAQ.
+Kontext: Aus häufigen Fragen konkrete Content-Themen und Hooks entwickeln.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Content-Ideen aus FAQ.
+Arbeitsprinzip: Aus häufigen Fragen konkrete Content-Themen und Hooks entwickeln.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 48. Vertrieb & Alltag / Kundenfeedback clustern
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Kundenfeedback clustern.
+Kontext: Feedback nach Themen, Problemen, Wünschen und wiederkehrenden Mustern gruppieren.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Kundenfeedback clustern.
+Arbeitsprinzip: Feedback nach Themen, Problemen, Wünschen und wiederkehrenden Mustern gruppieren.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 49. Vertrieb & Alltag / Kundengespräch vorbereiten
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Kundengespräch vorbereiten.
+Kontext: Vorhandene Informationen in Gesprächsziel, Fragen, Fakten und nächste Schritte strukturieren.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Kundengespräch vorbereiten.
+Arbeitsprinzip: Vorhandene Informationen in Gesprächsziel, Fragen, Fakten und nächste Schritte strukturieren.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
+
+### 50. Vertrieb & Alltag / Persönliche Wissensdatenbank
+
+[STANDARD]
+Rolle: Arbeite als professioneller Arbeitsassistent.
+Aufgabe: Persönliche Wissensdatenbank.
+Kontext: Wiederverwendbares Wissen aus Notizen in ein durchsuchbares Schema überführen.
+Input:
+[HIER EINFÜGEN]
+
+Ziel: Erstelle ein direkt nutzbares Ergebnis.
+Format: klar strukturiert, kompakt und gut kopierbar.
+Regeln:
+- Nutze ausschließlich die bereitgestellten Informationen.
+- Erfinde keine Fakten, Zahlen, Termine, Quellen oder Zusagen.
+- Fehlende Angaben mit [OFFEN] markieren.
+- Unklare oder widersprüchliche Angaben kurz kennzeichnen.
+- Ergebnis zuerst, danach höchstens 3 kurze Verbesserungshinweise.
+
+[PRÄZISION]
+Bearbeite folgende Aufgabe: Persönliche Wissensdatenbank.
+Arbeitsprinzip: Wiederverwendbares Wissen aus Notizen in ein durchsuchbares Schema überführen.
+
+INPUT:
+[HIER EINFÜGEN]
+
+ZIELGRUPPE / EMPFÄNGER:
+[HIER EINFÜGEN]
+
+GEWÜNSCHTE WIRKUNG:
+[HIER EINFÜGEN]
+
+AUSGABEFORMAT:
+[HIER EINFÜGEN]
+
+LÄNGE:
+[HIER EINFÜGEN]
+
+TON:
+[HIER EINFÜGEN]
+
+PFLICHTINFORMATIONEN:
+[HIER EINFÜGEN]
+
+NICHT ENTHALTEN:
+[HIER EINFÜGEN]
+
+Qualitätsprüfung:
+1. Nur belegte Angaben verwenden.
+2. Keine Fakten, Zahlen, Termine, Zusagen oder Quellen erfinden.
+3. Fehlende Angaben als [OFFEN] markieren.
+4. Widersprüche sichtbar machen.
+5. Vor Ausgabe auf Klarheit und Vollständigkeit prüfen.
+6. Danach nur das fertige Ergebnis ausgeben, gefolgt von maximal 3 kurzen Hinweisen.
+
+--------------------------------------------------------------------------------
