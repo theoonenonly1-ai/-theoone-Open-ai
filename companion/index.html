@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#090909"><meta name="description" content="TheOone AI Companion – persönlicher KI-Begleiter MVP.">
+<title>TheOone AI — Companion</title><link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<div class="app-shell">
+<aside class="sidebar" id="sidebar">
+<div class="brand"><span class="the">The</span><span class="o">O</span><span class="one">ne</span><small>AI COMPANION</small></div>
+<nav>
+<button class="nav-item active" data-view="home">⌂ <span>Home</span></button>
+<button class="nav-item" data-view="chat">◌ <span>Chat</span></button>
+<button class="nav-item" data-view="memory">◉ <span>Memory</span></button>
+<button class="nav-item" data-view="skills">✦ <span>Skills</span></button>
+<button class="nav-item" data-view="companion">◎ <span>Companion</span></button>
+<button class="nav-item" data-view="settings">⚙ <span>Einstellungen</span></button>
+</nav><div class="side-footer"><span class="status-dot"></span> Demo Core aktiv</div>
+</aside>
+<main class="main">
+<header class="topbar"><button class="mobile-menu" id="menuBtn">☰</button><div><span class="eyebrow">THEOONE AI / COMPANION</span><h1 id="pageTitle">Dein Companion</h1></div><div class="top-actions"><span class="mode-pill">MVP · lokal</span><button class="avatar-mini" id="avatarMini">O</button></div></header>
+
+<section id="view-home" class="view active">
+<div class="hero-card"><div><span class="eyebrow red">PERSÖNLICHER KI-BEGLEITER</span><h2>Ein Companion, der<br><em>mit dir wächst.</em></h2><p>Schön, dass du wieder da bist.</p><button class="primary" data-go="chat">Gespräch starten <span>→</span></button></div><div class="core-orb"><span>O</span></div></div>
+<div class="grid-3"><article class="stat-card"><span>MEMORY</span><strong id="memoryCount">0</strong><small>gespeicherte Einträge</small></article><article class="stat-card"><span>SKILLS</span><strong>3</strong><small>Basis-Skills aktiviert</small></article><article class="stat-card"><span>COMPANION</span><strong id="companionName">Nova</strong><small id="companionRole">Persönlicher Begleiter</small></article></div>
+<div class="section-head"><div><span class="eyebrow">HEUTE</span><h3>Was möchtest du tun?</h3></div></div>
+<div class="action-grid"><button class="action-card" data-go="chat"><b>💬 Mit mir sprechen</b><span>Frage, plane oder denke gemeinsam.</span></button><button class="action-card" data-go="memory"><b>🧠 Memory verwalten</b><span>Sieh, was dein Companion behalten darf.</span></button><button class="action-card" data-go="companion"><b>◎ Companion gestalten</b><span>Name, Rolle und Persönlichkeit anpassen.</span></button></div>
+</section>
+
+<section id="view-chat" class="view"><div class="chat-layout"><div class="chat-window"><div class="chat-head"><div><b id="chatName">Nova</b><span>Online · Demo Core</span></div><span class="live-dot"></span></div><div class="messages" id="messages"></div><form class="composer" id="chatForm"><input id="chatInput" autocomplete="off" placeholder="Schreib deinem Companion…"><button class="send" type="submit">→</button></form><div class="composer-note">MVP-Demo: Antworten laufen lokal. Eine echte KI-API wird im Backend angeschlossen.</div></div><aside class="chat-side"><span class="eyebrow">QUICK ACTIONS</span><button data-prompt="Hilf mir, meinen heutigen Tag zu strukturieren.">Tagesplanung</button><button data-prompt="Hilf mir, diese Aufgabe in klare nächste Schritte zu zerlegen.">Aufgabe zerlegen</button><button data-prompt="Fasse meine bisherigen Ziele zusammen.">Meine Ziele</button></aside></div></section>
+
+<section id="view-memory" class="view"><div class="section-head"><div><span class="eyebrow">MEMORY CORE</span><h2>Was soll TheOone über dich wissen?</h2></div></div><div class="memory-add"><input id="memoryInput" placeholder="z. B. Ich arbeite morgens am konzentriertesten."><button class="primary" id="addMemory">Speichern</button></div><div class="memory-list" id="memoryList"></div><p class="privacy-note">Alles in diesem MVP wird nur lokal in deinem Browser gespeichert. Keine Daten werden an einen Server übertragen.</p></section>
+
+<section id="view-skills" class="view"><div class="section-head"><div><span class="eyebrow">SKILL CORE</span><h2>Deine ersten Fähigkeiten.</h2></div></div><div class="skill-grid"><article class="skill active"><span>✦</span><h3>Produktivität</h3><p>Aufgaben strukturieren und nächste Schritte planen.</p><b>AKTIV</b></article><article class="skill active"><span>✎</span><h3>Schreiben</h3><p>Texte, Nachrichten und Ideen klarer formulieren.</p><b>AKTIV</b></article><article class="skill active"><span>◎</span><h3>Brainstorming</h3><p>Ideen entwickeln, sortieren und weiterdenken.</p><b>AKTIV</b></article><article class="skill future"><span>＋</span><h3>Weitere Skills</h3><p>Die Skill-Plattform wird später modular erweitert.</p><b>VERSION 2.0+</b></article></div></section>
+
+<section id="view-companion" class="view"><div class="section-head"><div><span class="eyebrow">CHARACTER CORE</span><h2>Dein Companion.</h2></div></div><div class="companion-editor"><div class="avatar-large">O</div><div class="editor-form"><label>Name<input id="nameInput" value="Nova"></label><label>Rolle<select id="roleInput"><option>Persönlicher Begleiter</option><option>Assistent</option><option>Freund / Kumpel</option><option>Lernpartner</option><option>Gaming Companion</option><option>Kreativpartner</option></select></label><label>Persönlichkeit<textarea id="personalityInput">freundlich, direkt, kreativ und unterstützend</textarea></label><button class="primary" id="saveCompanion">Änderungen speichern</button></div></div><div class="future-box"><b>Roadmap-Platzhalter</b><span>Voice, Avatar-Animationen, Multi-Device und weitere Erweiterungen sind bewusst als spätere Module vorgesehen.</span></div></section>
+
+<section id="view-settings" class="view"><div class="section-head"><div><span class="eyebrow">CONTROL CENTER</span><h2>Kontrolle bleibt bei dir.</h2></div></div><div class="settings-list"><div><div><b>Lokales Memory</b><span>Speicherung nur auf diesem Gerät.</span></div><label class="switch"><input type="checkbox" checked id="memoryToggle"><i></i></label></div><div><div><b>Demo-Modus</b><span>Aktiviert lokale Antworten ohne API.</span></div><label class="switch"><input type="checkbox" checked disabled><i></i></label></div><div><div><b>Alle lokalen Daten löschen</b><span>Entfernt Memory und Companion-Einstellungen.</span></div><button class="danger" id="resetBtn">Zurücksetzen</button></div></div></section>
+</main></div><script src="./app.js"></script></body></html>
