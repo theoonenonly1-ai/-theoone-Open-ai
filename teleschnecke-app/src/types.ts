@@ -1,3 +1,22 @@
 export type AvatarStyle = "klassisch" | "pirat" | "steampunk" | "futuristisch" | "fantasy";
-export type SnailAvatar = { id:string; name:string; phone?:string; photoUri?:string; style:AvatarStyle; shellColor:string; bodyColor:string; eyeColor:string; accessory:string; createdAt:number; };
+export type AvatarExpression = "freundlich" | "frech" | "ernst" | "ueberrascht";
+export type AvatarEyes = "klassisch" | "gross" | "schmal" | "cyber";
+export type AvatarAccessory = "keins" | "brille" | "monokel" | "schal" | "hut";
+export type SnailAvatar = {
+  id:string;
+  name:string;
+  phone?:string;
+  photoUri?:string;
+  style:AvatarStyle;
+  expression:AvatarExpression;
+  eyes:AvatarEyes;
+  accessory:AvatarAccessory;
+  shellColor:string;
+  bodyColor:string;
+  eyeColor:string;
+  createdAt:number;
+};
 export const STYLE_LABELS:Record<AvatarStyle,string>={klassisch:"Klassisch",pirat:"Pirat",steampunk:"Steampunk",futuristisch:"Futuristisch",fantasy:"Fantasy"};
+export const EXPRESSION_LABELS:Record<AvatarExpression,string>={freundlich:"Freundlich",frech:"Frech",ernst:"Ernst",ueberrascht:"Überrascht"};
+export const EYES_LABELS:Record<AvatarEyes,string>={klassisch:"Klassisch",gross:"Groß",schmal:"Schmal",cyber:"Cyber"};
+export const ACCESSORY_LABELS:Record<AvatarAccessory,string>={keins:"Keine",brille:"Brille",monokel:"Monokel",schal:"Schal",hut:"Hut"};
