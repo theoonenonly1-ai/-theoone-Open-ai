@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Teleschnecke", "slug": "teleschnecke", "version": "1.0.0", "orientation": "portrait", "userInterfaceStyle": "dark", "newArchEnabled": true, "scheme": "teleschnecke",
+    "icon": "./assets/icon.png", "splash": {"backgroundColor":"#070A12"},
+    "ios": {"supportsTablet":true,"bundleIdentifier":"ai.snaile.teleschnecke","buildNumber":"1","infoPlist":{"NSPhotoLibraryUsageDescription":"Teleschnecke benötigt Zugriff auf deine Fotos, damit du daraus persönliche Teleschnecken-Avatare erstellen kannst."}},
+    "android": {"package":"ai.snaile.teleschnecke","versionCode":1,"permissions":["READ_MEDIA_IMAGES"]},
+    "web":{"bundler":"metro"}
+  }
+}
